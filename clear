@@ -1,0 +1,23 @@
+[33mcommit 11d85e0dcb82acc032bfab28b1813e555b1f2e33[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Santiago G <nohumorsense.dev@gmail.com>
+Date:   Fri Oct 27 05:05:23 2023 -0500
+
+    Texto 2
+
+[33mcommit 8d446404e82b111395c44a8c300dd4bc01266e25[m[33m ([m[1;31morigin/main[m[33m, [m[1;32manfibios[m[33m)[m
+Author: Santiago G <nohumorsense.dev@gmail.com>
+Date:   Fri Oct 27 04:51:27 2023 -0500
+
+    Agregado anfibios
+
+[33mcommit 56183258922a4664012848d35d0508ea1d36e779[m
+Author: Santiago G <nohumorsense.dev@gmail.com>
+Date:   Fri Oct 27 04:43:45 2023 -0500
+
+    Agregada clase cochino y oveja
+
+[33mcommit 2b6c03acd878433f857e2351b0eba2c2a9adc907[m
+Author: Santiago G <nohumorsense.dev@gmail.com>
+Date:   Fri Oct 27 04:39:04 2023 -0500
+
+    Version inicial del paquete de animales
